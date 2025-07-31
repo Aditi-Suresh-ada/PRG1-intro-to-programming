@@ -1,6 +1,6 @@
 # Just some friendly helper functions.
 # Probably you want to be in the materials, not here.
-# To start, go to 000_START_HERE.py
+# To start, go to 010_comments.py
 
 RED = '\033[1;31m'
 GREEN = '\033[1;32m'

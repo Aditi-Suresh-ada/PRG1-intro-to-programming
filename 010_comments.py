@@ -1,22 +1,4 @@
-# Before you go any further:
-
-# Our previous version of this Introduction to Programming course was not on
-# GitHub Codespaces, which you are using now - it was on a different platform
-# which was called Replit. We moved away from that platform for a number of
-# reasons, but the content of this course has not changed.
-#
-# As you watch through our videos, like the one below and those coming after it,
-# you will see Kay using a different interface to the one you are using - but
-# don't worry! The text and code are the same, as are the programming principles
-# she's teaching you, as is the way she is running the code. The only difference
-# is how it looks, not how it works.
-
-
-# Now, back to where we were —
-
-# Video alternative: https://vimeo.com/954334215/cbd70ba2fa
-
-# Hello! Welcome to programming. I will guide you through these early steps.
+# Hello! Welcome to PRG1 - Introduction to programming. I will guide you through these early steps.
 #
 # To begin, I'd like to share with you a little quote from a writer called Italo
 # Calvino, himself retelling a Chinese story:
@@ -71,9 +53,5 @@
 # By the way — these lines starting with the `#` character? They're called
 # comments. They don't get run by Python — they're just for me to talk to you.
 # You can create one yourself if you like.
-
-# Type your name as a comment on the next line.
-
-# Hint: if you're on a Mac, type opt + 3 to get a #
 
 # Now open up 011_identity.py and get started with some real code!

@@ -1,3 +1,0 @@
-{
-    "postAttachCommand": "source scripts/reconfigure_prompt.sh"
-}

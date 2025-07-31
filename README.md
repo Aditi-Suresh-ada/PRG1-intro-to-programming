@@ -1,21 +1,37 @@
-# The Perfect Crab Introduction to Programming
+# PRG1 Module Introduction
 
-Welcome!
+Welcome to PRG1, the Introduction to Programming module—your second module in your apprenticeship. This module develops your computational thinking and problem-solving skills, which will benefit your future career regardless of whether you continue on the software engineering pathway or one of the others.
 
-This is a series of exercises designed to help you learn the fundamentals of
-programming necessary to succeed in the Makers coding assessment. We'll be using
-Python, but the ideas will apply to any language.
+## The Role of AI in Programming
+
+Generative AI has dominated headlines recently, with predictions that it will replace jobs and handle problem-solving tasks for us. Whilst AI can assist with trivial programming tasks, it has significant limitations: it makes mistakes and sometimes provides outdated or contextually inappropriate solutions.
+
+More concerning is the risk that over-reliance on generative AI reduces our need to think critically, potentially stunting our cognitive abilities. If we blindly trust AI outputs without developing our own analytical skills, this dependency could have serious negative consequences for our future problem-solving capabilities.
+
+## Why Core Skills Matter
+
+The skills you'll develop in this module are invaluable because you'll learn to:
+- Break problems down logically
+- Recognise correct versus incorrect solutions
+- Identify when AI outputs are flawed or outdated
+
+Without these foundational skills, you'll never know whether an AI's suggestions are correct. Experienced developers who've built these competencies over many years can easily spot when generative AI tools miss the mark or lack proper context.
+
+## Our Approach to AI Tools
+
+While AI developers are aggressively marketing their tools to help existing developers work faster and smarter, both we and your employers agree that mastering the fundamentals of computational thinking, problem-solving, and decomposition is essential for your long-term success.
+
+**Therefore, AI tools are not permitted in PRG1.** This restriction prevents these tools from stunting your development of crucial core skills.
+
+Don't worry—we'll incorporate generative AI tools in future modules, as they're an inevitable part of the industry. However, for this foundational module, developing these essential skills yourself is our priority.
+
+
 
 ## How do I get started?
 
-> **Note**
-> If you like videos, follow this [video
-> guide](https://vimeo.com/1061335416/4f5eb4a48f) to get set up. Otherwise, keep
-> reading below.
-
 To get started, if you haven't already done so:
 
-1. Firstly you need to create yourself a GitHub account and log in to GitHub.
+1. Firstly you need to create yourself a GitHub account using your **Ada email address** and log in to GitHub.
 2. Next, from the green 'Use this template' button on the right, click and
    choose 'Open in a codespace' from the drop-down menu. This will open up the
    programming interface you will use to learn.
@@ -44,9 +60,6 @@ You will need to engage with three parts of it:
 * The code panel (if you're in your codespace, that's this one you're reading
   this text from) where you'll read and write code.
 * The terminal panel at the bottom, where you'll run code.
-
-To set up and learn how to use the interface, please follow the [IDE setup
-video](https://vimeo.com/1061335416/4f5eb4a48f).
 
 If you find the default appearance hard to read, you can switch to a different
 colour theme within the IDE.
@@ -85,32 +98,20 @@ You should work through each file top to bottom.
 At the end of the material there are four optional files. You don't need to
 complete these to be ready for the assessment, but they might help.
 
-## What if I would prefer to watch than to read?
-
-There are video alternatives for each file that you can follow along with. You
-can find them as a link at the top of each file.
 
 ## GitHub Codespaces
 
-GitHub Codespaces is owned and managed by GitHub, not Makers - we have just
-chosen to use their platform. There are a generous free number of hours of usage
-per month, and the 60 hours of free usage you would get on The Perfect Crab
-Introduction to Programming course is more than enough to complete it. You
-absolutely do not need to pay for more usage to complete the Makers course,
+GitHub Codespaces is owned and managed by GitHub, not Ada - we have just
+chosen to use their platform as GitHub is an industry standard. 
+There are a generous free number of hours of usage
+per month, and the 60 hours of free usage you would get on more than enough to complete it. 
+You absolutely do not need to pay for more usage to complete the PRG1 module,
 although of course if you want to use Github Codespaces for other things apart
 from this, that is up to you.
 
-You can view your [account's current usage under
-"Codespaces"](https://github.com/settings/billing/summary), so you can keep an
-eye on how many hours you've used, should you wish.
-
-Please be aware that if you do provide payment information to GitHub, and set a
-non-zero limit on your spending, and use any GitHub Codespace for many hours,
-you can personally be charged so by proceeding you do so at your own risk with
-this understanding. For more information on GitHub Codespaces and paying for
-usage, please consult GitHub's own documentation for the latest details.
+For the assigment tasks, you will be using **our** Codespaces credits, so don't worry about that.
 
 ## I have some feedback about the material
 
 We would receive it with gratitude. [You can give us feedback
-here.](https://forms.gle/Vo76eDCGRrWngWkD7)
+here.](enter link here)
