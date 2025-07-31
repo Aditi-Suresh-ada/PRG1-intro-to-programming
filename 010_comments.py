@@ -1,31 +1,5 @@
 # Hello! Welcome to PRG1 - Introduction to programming. I will guide you through these early steps.
 #
-# To begin, I'd like to share with you a little quote from a writer called Italo
-# Calvino, himself retelling a Chinese story:
-#
-# "Among Chuang-tzu's many skills, he was an expert draftsman. The king asked
-# him to draw a crab. Chuang-tzu replied that he needed five years, a country
-# house, and twelve servants. Five years later the drawing was still not begun.
-# "I need another five years," said Chuang-tzu. The king granted them. At the
-# end of these ten years, Chuang-tzu took up his brush and, in an instant, with
-# a single stroke, he drew a crab, the most perfect crab ever seen."
-#
-# Perhaps you have come to programming because you would like to be good at it.
-# Perhaps you know people, or you have heard of people, who are really
-# exceptional programmers.
-#
-# You, very likely, are not this person yet. Like Chuang-tzu, it will take you
-# many years to reach the effortless skill of an expert programmer.
-#
-# But every programmer has sat where you are sat, curious and willing to learn.
-# They have spent many hours getting things wrong, being stuck, being confused.
-# You will go through this too.
-#
-# Every expert sat where you are sat. What they all have in common? They kept
-# going.
-#
-# So let's get started.
-#
 # What are we learning?
 # =====================
 #
