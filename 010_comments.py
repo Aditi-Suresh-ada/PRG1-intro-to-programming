@@ -1,5 +1,5 @@
-# Hello! Welcome to PRG1 - Introduction to programming. I will guide you through these early steps.
-#
+# Hello! Welcome to PRG1 - Introduction to programming. 
+# 
 # What are we learning?
 # =====================
 #
@@ -7,7 +7,7 @@
 # programming languages are quite similar, so it doesn't matter much that this
 # is Python. The key ideas are the same.
 #
-# We're going to learn enough to succeed in the Makers interview process. The
+# We're going to learn enough to succeed in the PRG1 module. The
 # ideas themselves are quite simple. The complexity of programming is in the
 # combination of these ideas. Here's a list of what we'll learn:
 #
@@ -25,7 +25,19 @@
 # skills.
 #
 # By the way — these lines starting with the `#` character? They're called
-# comments. They don't get run by Python — they're just for me to talk to you.
+# comments. They don't get run by Python — in this case they're just for me to talk 
+# to you.
+
 # You can create one yourself if you like.
 
-# Now open up 011_identity.py and get started with some real code!
+# Comments serve several important purposes in code:
+# 1. To explain what the code does and how it works
+# 2. To document assumptions and requirements
+# 3. To temporarily disable code during debugging
+# 4. To provide context and guidance for other developers
+# 5. To break up code into logical sections
+# 
+# Comments start with # in Python and are ignored by the interpreter
+# They can be placed on their own line or at the end of a code line
+
+# Now open up 011_functions.py and get started with some real code!

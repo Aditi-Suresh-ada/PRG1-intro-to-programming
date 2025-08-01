@@ -1,4 +1,4 @@
-# Video alternative: https://vimeo.com/954334279/dd2abfbdd7#t=0
+# Video alternative: 
 
 from lib.helpers import check_that_these_are_equal
 

@@ -1,4 +1,4 @@
-# Video alternative: https://vimeo.com/954334235/902b0b036d#t=0
+# Video alternative: 
 
 # Let's create a more useful function:
 

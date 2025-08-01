@@ -1,4 +1,4 @@
-# Video alternative: https://vimeo.com/954334235/902b0b036d#t=606
+# Video alternative: 
 
 # So far you've seen very simple computations. I'm going to show you how to
 # perform more advanced ones. Before I do, let's break down `add_one` a bit
