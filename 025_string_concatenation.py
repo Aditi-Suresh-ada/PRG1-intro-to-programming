@@ -28,7 +28,7 @@ print(my_string)
 
 # Here's what they look like:
 
-my_name = "Kay"
+my_name = "Ada"
 print(f"Hello, {my_name}!")
 
 # Note the `f` before the first quote, and the use of `{` and `}` to create

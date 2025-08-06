@@ -38,7 +38,7 @@ print(just_return_it(4))
 
 # @TASK: Run this program in the bottom terminal panel:
 #
-#   python 011_identity.py
+#   python 002_functions.py
 #
 
 # If you don't see the terminal, watch this video:
@@ -53,4 +53,4 @@ print(just_return_it(4))
 # This shows us that when we call the `just_return_it` function with the input
 # parameter `4` — it gives us `4` back.
 #
-# Now move on to 012_add_one.py
+# Now move on to 003_add_one.py

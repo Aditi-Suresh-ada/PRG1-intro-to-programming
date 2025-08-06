@@ -4,16 +4,16 @@
 
 # You've already seen the string syntax dotted around. Here it is:
 
-my_name = "Kay"
+my_name = "Ada"
 print(my_name)
 
 # They are surrounded by double quotes:
 
-my_name = "Kay"
+my_name = "Ada"
 
 # Or single quotes:
 
-my_name = 'Kay'
+my_name = 'Ada'
 
 # In Python, there's no meaningful difference between the two.
 

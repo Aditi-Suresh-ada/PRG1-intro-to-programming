@@ -92,7 +92,7 @@ The first two lines are code. This is what you will be learning how to create.
 That last line starting with a `#` is a comment. We will talk you through the
 ideas behind the code using comments.
 
-You should work through each file sequentially, starting with `010_comments.py`.
+You should work through each file sequentially, starting with `001_comments.py`.
 You should work through each file top to bottom.
 
 At the end of the material there are four optional files. You don't need to

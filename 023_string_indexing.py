@@ -16,13 +16,13 @@ from lib.helpers import check_that_these_are_equal
 
 # Take this string:
 
-note = "The Most Perfect Crab"
+note = "Ada Lovelace"
 print(note)
 
 # We can access the first character like this:
 
 print(note[0])
-# In programming, we count from zero — 'T' is the zeroth character.
+# In programming, we count from zero — 'A' is the zeroth character.
 
 # And the last character like this:
 

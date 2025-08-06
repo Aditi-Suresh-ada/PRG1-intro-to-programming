@@ -14,11 +14,15 @@
 # * Functions (making your own programs)
 # * Arithmetic (basic maths)
 # * Expressions and statements (the building blocks of programs)
-# * Strings (letters and words)
 # * Conditionals (ifs and elses)
+# * Strings (letters and words)
 # * Lists (sequences of items)
 # * Loops (whiles and fors)
+# * File Reading and Writing
 # * Dictionaries (pairs of items)
+# * Regular Expressions (pattern matching)
+# * Object Oriented Programming (OOP)
+# * 2D Lists (more dequences of items)
 #
 # You will find exercises throughout the material, signposted with @TASK. We
 # will finish the material with some extra tricky exercises for you to test your
@@ -40,4 +44,4 @@
 # Comments start with # in Python and are ignored by the interpreter
 # They can be placed on their own line or at the end of a code line
 
-# Now open up 011_functions.py and get started with some real code!
+# Now open up 002_functions.py and get started with some real code!

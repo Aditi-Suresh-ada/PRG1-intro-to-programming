@@ -32,12 +32,12 @@ print(f"The string is {length} characters long")
 
 # Into this:
 
-"Hello, Kay!"
+"Hello, Ada!"
 
 # For this, you could use the `replace` function:
 
 old_string = "Hello, YOUR_NAME!"
-new_string = old_string.replace("YOUR_NAME", "Kay")
+new_string = old_string.replace("YOUR_NAME", "Ada")
 
 # Uncomment this next line to see the result:
 # print(new_string)

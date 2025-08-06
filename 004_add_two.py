@@ -1,6 +1,6 @@
 from lib.helpers import check_that_these_are_equal
 
-# Video alternative: https://vimeo.com/954334235/902b0b036d#t=84
+# Video alternative: 
 
 # Now you try. Here's an exercise for you:
 #
@@ -18,7 +18,7 @@ from lib.helpers import check_that_these_are_equal
 
 # @TASK: To check your work, run this in the terminal:
 
-#   python 013_add_two.py
+#   python 004_add_two.py
 
 # This will run the test at the bottom of this file.
 
