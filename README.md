@@ -31,15 +31,8 @@ Don't worry—we'll incorporate generative AI tools in future modules, as they'r
 
 To get started, if you haven't already done so:
 
-1. Firstly you need to create yourself a GitHub account using your **Ada email address** and log in to GitHub.
-2. Next, from the green 'Use this template' button on the right, click and
-   choose 'Open in a codespace' from the drop-down menu. This will open up the
-   programming interface you will use to learn.
-
-![A screenshot of the repository in GitHub, with Use this template expanded to
-show the Open in a codespace option.](images/open-in-codespace.png)
-
-3. After this, keep reading down the file for further instructions.
+* Follow the instructions from the day 1 slides to *fork* this repo, and then open it in a Codespace.
+* After this, keep reading down the file for further instructions.
 
 ⚙️ **If you prefer to use your own local development setup**
 
@@ -50,9 +43,7 @@ However only do this if you are sure you know what you're doing.
 ## How do I use GitHub Codespaces?
 
 Once you have opened your new codespace, you will see an interface which we will
-call the IDE. It should look like this (although may have a different colour):
-
-![A screenshot of the interface with the files on the left, the code in the middle, and the terminal at the bottom.](images/codespace-interface.png)
+call the IDE. 
 
 You will need to engage with three parts of it:
 
@@ -66,7 +57,7 @@ colour theme within the IDE.
 
 1. From the cog icon labelled 'Manage' at the bottom left of the IDE, click
    Settings.
-2. Under 'Workbench' > 'Apperance', scroll down to find 'Color Theme' and choose
+2. Under 'Workbench' > 'Appearance', scroll down to find 'Color Theme' and choose
    a different one from the provided list. I would recommend one of these:
 
 * GitHub Light Default
@@ -113,5 +104,4 @@ For the assigment tasks, you will be using **our** Codespaces credits, so don't 
 
 ## I have some feedback about the material
 
-We would receive it with gratitude. [You can give us feedback
-here.](enter link here)
+We would receive it with gratitude. You can give us feedback in the survey that happens at the end of each week.
