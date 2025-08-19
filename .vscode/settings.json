@@ -1,13 +1,13 @@
 {
-  "python.defaultInterpreterPath": "/usr/bin/python3",
-  "editor.tabSize": 4,
-  "editor.insertSpaces": true,
-  "editor.detectIndentation": false,
-  "[python]": {
+    "github.copilot.enable": false,
+    "python.defaultInterpreterPath": "/usr/bin/python3",
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
-    "editor.rulers": [88],
-    "editor.formatOnSave": true
-  },
-  
+    "editor.detectIndentation": false,
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.rulers": [88],
+        "editor.formatOnSave": true
+    }
 }
