@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334163/bf61706e77#t=1337
-
 from lib.helpers import check_that_these_are_equal
 
 # Python comes with a number of helpful functions to work with lists. We'll look
@@ -135,4 +133,4 @@ check_that_these_are_equal(
 check_that_these_are_equal(
   list_length([33, 44]), 2)
 
-# When you're done, move on to 032_while_loops.py
+# When you're done, move on to 023_while_loops.py

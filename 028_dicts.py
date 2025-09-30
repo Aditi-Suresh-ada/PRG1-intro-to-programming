@@ -1,4 +1,3 @@
-# Video alternative: https://vimeo.com/954334322/c5a36d4407#t=510
 
 # Here are the data structures we've met so far:
 
@@ -39,4 +38,4 @@ print("  " + my_dictionary["List"])
 print("A Dictionary is:")
 # ...
 
-# Once you're done, move on to 038_dict_operations.py
+# Once you're done, move on to 029_dict_operations.py

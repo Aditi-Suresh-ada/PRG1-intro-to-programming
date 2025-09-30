@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334163/bf61706e77#t=1171
-
 from lib.helpers import check_that_these_are_equal
 
 # Similarly to strings, you can index into lists.
@@ -14,7 +12,7 @@ my_list[1:3] # Evaluates to [35, 21]
 # lists!
 
 # @TASK: Complete the following exercises. You can check them as you go by
-# running: python 030_list_indexing.py
+# running: python 021_list_indexing.py
 
 # == Exercise One ==
 
@@ -92,4 +90,4 @@ check_that_these_are_equal(
   [44, 54]
 )
 
-# When you're done, move on to 031_list_modification.py
+# When you're done, move on to 022_list_modification.py

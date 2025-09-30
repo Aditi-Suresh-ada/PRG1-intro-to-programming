@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334163/bf61706e77#t=1027
-
 # When looking at strings, I mentioned the concept of data structures.
 
 # To remind you, a data structure is a collection of data organised in a certain
@@ -26,6 +24,6 @@ print(your_list)
 
 # @TASK and print it out by running:
 
-#   python 029_lists.py
+#   python 020_lists.py
 
-# When you're done, move on to 030_list_indexing.py
+# When you're done, move on to 021_list_indexing.py

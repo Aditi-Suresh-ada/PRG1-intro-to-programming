@@ -1,4 +1,3 @@
-# Video alternative: https://vimeo.com/954334322/c5a36d4407#t=214
 
 from lib.helpers import check_that_these_are_equal
 
@@ -43,4 +42,4 @@ check_that_these_are_equal(
 check_that_these_are_equal(
   only_positive_numbers([-100]), [])
 
-# When you're done, move on to 037_dicts.py
+# When you're done, move on to 028_dicts.py

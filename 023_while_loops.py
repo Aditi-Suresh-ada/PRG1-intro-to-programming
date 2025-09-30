@@ -1,12 +1,10 @@
-# Video alternative: https://vimeo.com/954334424/6e40d11ef1#t=0
-
 from lib.helpers import check_that_these_are_equal
 
 # Remember `if`s? Here's a reminder:
 
-my_name = "Kay"
-if my_name == "Kay":
-  print("Hello, Kay!")
+my_name = "Ada"
+if my_name == "Ada":
+  print("Hello, Ada!")
 else:
   print("Hello, you!")
 
@@ -53,4 +51,4 @@ check_that_these_are_equal(
 check_that_these_are_equal(
   add_cats_repeatedly(['dogs'], 2), ['dogs', 'cats', 'cats'])
 
-# When you're done, move on to 033_for_loops.py
+# When you're done, move on to 024_for_loops.py

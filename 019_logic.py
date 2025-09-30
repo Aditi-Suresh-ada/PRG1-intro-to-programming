@@ -77,4 +77,4 @@ check_that_these_are_equal(not_a(True), False)
 check_that_these_are_equal(not_a(False), True)
 
 # Perhaps you could have guessed those... but now you know for sure! When you're
-# done, move on to 029_lists.py
+# done, move on to 020_lists.py

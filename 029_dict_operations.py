@@ -1,4 +1,3 @@
-# Video alternative: https://vimeo.com/954334322/c5a36d4407#t=726
 
 from lib.helpers import check_that_these_are_equal
 
@@ -73,4 +72,4 @@ check_that_these_are_equal(
   {4: 3, 3: 1}
 )
 
-# Once you're done, move on to 039_challenge_1_example.py
+# Once you're done, move on to 030_oop.py
