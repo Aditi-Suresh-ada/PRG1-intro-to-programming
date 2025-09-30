@@ -1,7 +1,5 @@
 from lib.helpers import check_that_these_are_equal
 
-# Video alternative: 
-
 # Now you try. Here's an exercise for you:
 #
 # @TASK: Write a function called `add_two` that:
@@ -34,4 +32,4 @@ check_that_these_are_equal(
   8
 )
 
-# When you're done, move on to 014_multiply_numbers.py
+# When you're done, move on to 005_multiply_numbers.py

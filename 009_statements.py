@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334376/0c486313d0#t=460
-
 # Now, let's look at statements. You've already seen a few of these too:
 
 added = 2 + 3
@@ -42,4 +40,4 @@ print("---")
 # You'll see that the first `19` value is thrown away and replaced with the
 # second `20` value.
 
-# When you're ready, move on to 019_state.py
+# When you're ready, move on to 010_state.py

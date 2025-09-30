@@ -20,16 +20,13 @@
 # * Loops (whiles and fors)
 # * File Reading and Writing
 # * Dictionaries (pairs of items)
-# * Regular Expressions (pattern matching)
 # * Object Oriented Programming (OOP)
 # * 2D Lists (more dequences of items)
 #
-# You will find exercises throughout the material, signposted with @TASK. We
-# will finish the material with some extra tricky exercises for you to test your
-# skills.
+# You will find exercises throughout the material, signposted with @TASK. 
 #
 # By the way — these lines starting with the `#` character? They're called
-# comments. They don't get run by Python — in this case they're just for me to talk 
+# comments. They don't get run by Python — in this case they're just for us to talk 
 # to you.
 
 # You can create one yourself if you like.

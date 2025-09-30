@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334376/0c486313d0#t=625
-
 # Here's a mindbender for you:
 
 a = 10
@@ -13,4 +11,4 @@ print(f"b is {b}")
 
 # Was it what you expected?
 
-# Try to puzzle it out, and then move on to 020_state_tables.py
+# Try to puzzle it out, and then move on to 011_state_tables.py

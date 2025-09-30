@@ -1,4 +1,3 @@
-# Video alternative: 
 
 # So far you've seen very simple computations. I'm going to show you how to
 # perform more advanced ones. Before I do, let's break down `add_one` a bit
@@ -48,7 +47,7 @@ print(f"2 * 3 = {multiplied} (should be 6)")
 #
 # 1. Uncomment the code by removing the `# `
 # 2. Replace the `?` with the right operator
-# 3. Check it by running `python 016_operators.py`
+# 3. Check it by running `python 007_operators.py`
 
 
 # == Subtraction ==
@@ -88,4 +87,4 @@ print(f"2 * 3 = {multiplied} (should be 6)")
 
 # OPERATOR PLAYGROUND ENDS
 
-# Happy? Move on to 017_expressions.py
+# Happy? Move on to 008_expressions.py

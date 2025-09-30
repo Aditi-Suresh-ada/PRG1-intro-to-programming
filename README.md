@@ -1,6 +1,6 @@
 # PRG1 Module Introduction
 
-Welcome to PRG1, the Introduction to Programming module—your second module in your apprenticeship. This module develops your computational thinking and problem-solving skills, which will benefit your future career regardless of whether you continue on the software engineering pathway or one of the others.
+Welcome to PRG1, the Introduction to Programming module - your second module in your apprenticeship. This module develops your computational thinking and problem-solving skills, which will benefit your future career regardless of whether you continue on the software engineering pathway or one of the others.
 
 ## The Role of AI in Programming
 
@@ -23,8 +23,7 @@ While AI developers are aggressively marketing their tools to help existing deve
 
 **Therefore, AI tools are not permitted in PRG1.** This restriction prevents these tools from stunting your development of crucial core skills.
 
-Don't worry—we'll incorporate generative AI tools in future modules, as they're an inevitable part of the industry. However, for this foundational module, developing these essential skills yourself is our priority.
-
+Don't worry - we incorporate generative AI tools in future modules, as they're an inevitable part of the industry. However, for this foundational module, **developing these essential skills yourself is our priority.**
 
 
 ## How do I get started?

@@ -1,5 +1,3 @@
-# Video alternative: 
-
 # Let's create a more useful function:
 
 def add_one(num):

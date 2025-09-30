@@ -1,4 +1,3 @@
-# Video alternative: https://vimeo.com/954334376/0c486313d0#t=0
 
 # Now, let's look at expressions. You've actually already seen them a lot!
 
@@ -76,7 +75,7 @@ add_one(4) * 3      # Evaluates to 15
 
 # @TASK: Try those expressions yourself. Run:
 #
-#   python -i 017_expressions.py
+#   python -i 008_expressions.py
 #
 # And then type in some of the above expressions.
 #
@@ -97,4 +96,4 @@ add_one(add_one(add_one(add_one(add_one(add_one(1))))))
 
 # EXPRESSIONS PLAYGROUND ENDS
 
-# When you're done, move on to 018_statements.py
+# When you're done, move on to 009_statements.py

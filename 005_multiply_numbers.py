@@ -1,4 +1,3 @@
-# Video alternative: 
 
 # So far we've seen functions that take only one input. They can actually take
 # two, or even more, inputs. Take a look at this:
@@ -19,4 +18,4 @@ print(multiply_numbers(3, 5))
 
 #   python 005_multiply_numbers.py
 
-# Now move on to 015_add_numbers.py to write your own.
+# Now move on to 006_add_numbers.py to write your own.

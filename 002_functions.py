@@ -41,7 +41,6 @@ print(just_return_it(4))
 #   python 002_functions.py
 #
 
-# If you don't see the terminal, watch this video:
 #
 # After running the command, you should see:
 #

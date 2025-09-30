@@ -1,7 +1,5 @@
 from lib.helpers import check_that_these_are_equal
 
-# Video alternative: 
-
 # @TASK: Now you try. Here's an exercise for you:
 #
 # Write a function called `add_numbers` that:
