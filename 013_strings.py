@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334279/dd2abfbdd7#t=308
-
 # A string is a sequence of characters (letters).
 
 # You've already seen the string syntax dotted around. Here it is:
@@ -23,9 +21,9 @@ your_name = ???
 print(your_name)
 
 # @TASK: Check your work by running this file with:
-# python 022_strings.py
+# python 013_strings.py
 
 # As you may have worked out, the `print(string)` function prints a string to
 # the terminal so you can see it.
 
-# When you're satisfied, move on to 023_string_indexing.py
+# When you're satisfied, move on to 014_string_indexing.py

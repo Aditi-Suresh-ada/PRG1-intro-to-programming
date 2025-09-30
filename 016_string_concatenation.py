@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334279/dd2abfbdd7#t=1098
-
 from lib.helpers import check_that_these_are_equal
 
 # Concatenation means 'joining together'.
@@ -43,7 +41,7 @@ print(f"Your name is {len(my_name)} characters long")
 
 # f-strings are a form of what's called string interpolation.
 
-# @TASK: Run this code using `python 025_string_concatenation.py` to see what it
+# @TASK: Run this code using `python 016_string_concatenation.py` to see what it
 # does, and then move onto the exercise below.
 
 # == Exercise One ==
@@ -52,7 +50,7 @@ print("")
 print("Function: greet")
 
 def greet(name):
-  # Return the string "Hello, Kay!" where "Kay" is the name provided
+  # Return the string "Hello, name!" where "name" is the name provided
   pass
 
 check_that_these_are_equal(
@@ -65,4 +63,4 @@ check_that_these_are_equal(
   "Hello, Crab!"
 )
 
-# When you're done, move on to 026_ifs.py
+# When you're done, move on to 017_ifs.py

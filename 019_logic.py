@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334163/bf61706e77#t=760
-
 from lib.helpers import check_that_these_are_equal
 
 # As we've mentioned, while numeric operators evaluate to numbers, like this:

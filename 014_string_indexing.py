@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334279/dd2abfbdd7#t=410
-
 from lib.helpers import check_that_these_are_equal
 
 # In the earlier material, we focused on numbers.
@@ -35,10 +33,10 @@ print(note[6])
 # You can also get a 'slice' of the string like this:
 
 print(note[0:3])
-# This gets the portion of the string between index 0 and 3: 'The'
+# This gets the portion of the string between index 0 and 3: 'Ada'
 
 # @TASK: Complete the following exercises. You can check them as you go by
-# running: python 023_string_indexing.py
+# running: python 014_string_indexing.py
 
 # == Exercise One ==
 
@@ -116,4 +114,4 @@ check_that_these_are_equal(
   " yea"
 )
 
-# When you're done, move on to 024_string_operations.py
+# When you're done, move on to 015_string_operations.py

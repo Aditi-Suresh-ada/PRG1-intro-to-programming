@@ -1,4 +1,3 @@
-# Video alternative: 
 
 from lib.helpers import check_that_these_are_equal
 
@@ -73,4 +72,4 @@ check_that_these_are_equal(
   14
 )
 
-# When you're done, move on to 022_strings.py
+# When you're done, move on to 013_strings.py

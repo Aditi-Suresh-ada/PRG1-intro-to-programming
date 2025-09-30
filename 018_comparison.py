@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334163/bf61706e77#t=338
-
 from lib.helpers import check_that_these_are_equal
 
 # We've seen the `==` comparison operator. There are some others too. Each of
@@ -174,4 +172,4 @@ check_that_these_are_equal(
   False
 )
 
-# When you're done, move on to 028_logic.py
+# When you're done, move on to 019_logic.py

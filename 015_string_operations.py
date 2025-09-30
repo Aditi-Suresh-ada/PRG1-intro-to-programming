@@ -1,5 +1,3 @@
-# Video alternative: https://vimeo.com/954334279/dd2abfbdd7#t=760
-
 from lib.helpers import check_that_these_are_equal
 
 # We're going to show you some more things you can do with strings.
@@ -19,7 +17,7 @@ print(f"The string is {length} characters long")
 # @TASK: Try it out yourself by changing the string "Hello!" above, and then
 # running this code with:
 #
-#   python 024_string_operations.py
+#   python 015_string_operations.py
 #
 # You'll see some other test output at the bottom. You can ignore this until
 # later in the exercise.
@@ -58,7 +56,7 @@ my_string.replace("h", "w") # <-- Method Function
 
 # == Upper and Lowercase ==
 
-# When you're doing the Makers assessment, you're quite likely to be asked to do
+# When you're doing Ada assessments, and at work, you're quite likely to be asked to do
 # something you've not done before. This is very normal.
 
 # In an engineering job, and increasingly in any job, you have to get
@@ -119,4 +117,4 @@ check_that_these_are_equal(
 check_that_these_are_equal(
   strip_whitespace(" hello world "), "hello world")
 
-# When you're done, move on to 025_string_concatenation.py
+# When you're done, move on to 016_string_concatenation.py
