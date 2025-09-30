@@ -72,4 +72,4 @@ check_that_these_are_equal(
   {4: 3, 3: 1}
 )
 
-# Once you're done, move on to 030_oop.py
+# Once you're done, move on to 030_2d_lists.py
